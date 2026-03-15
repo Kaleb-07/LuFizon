@@ -6,11 +6,11 @@ Product browsing and search
 Product detail page
 Add to cart and remove from cart
 Checkout system
-User authentication (login / register)
+User authentication (login & register)
 Profile management
 Order tracking
 Multi-language support
-Dark / Light theme toggle
+Dark & Light theme toggle
 
 🛍 Shopping Features
 Product categories
