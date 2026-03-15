@@ -4,7 +4,7 @@ The platform allows users to browse products, add items to cart, manage orders, 
 👤 User Features
 Product browsing and search
 Product detail page
-Add to cart / remove from cart
+Add to cart and remove from cart
 Checkout system
 User authentication (login / register)
 Profile management
