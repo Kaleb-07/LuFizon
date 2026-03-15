@@ -46,7 +46,7 @@ function App() {
         {/* Redirect root to the shop context since it's an ecommerce only project now */}
         <Route path="/" element={<Navigate to="/shop" />} />
 
-        {/*Ecommerce Routes ================= */}
+        {/*Ecommerce Routes ======*/}
         <Route path="/shop" element={<ShopHome />} />
         <Route path="/shop/store" element={<StorePage />} />
         <Route path="/shop/product/:id" element={<ProductDetail />} />
