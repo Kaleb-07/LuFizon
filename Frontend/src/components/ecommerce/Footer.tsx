@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="col-span-2 space-y-8 md:col-span-2">
             <div>
               <Link to="/" className="font-heading text-2xl font-bold tracking-tight">
-                <span className="gold-text">Tech</span><span className="text-foreground">Store</span>
+                <span className="gold-text">LuFi</span><span className="text-foreground">Zon</span>
               </Link>
               <p className="mt-4 max-w-sm text-base text-muted-foreground leading-relaxed">
                 Experience the next generation of technology. We curate only the finest flagship devices and premium accessories for your digital lifestyle.
