@@ -69,7 +69,7 @@ const Footer = () => {
 
         <div className="mt-20 border-t border-border/40 pt-10 flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="text-sm font-medium text-muted-foreground">
-            © {new Date().getFullYear()} TechStore. All rights reserved.
+            © {new Date().getFullYear()} LuFiZon. All rights reserved.
           </div>
 
           <div className="flex items-center gap-6 grayscale opacity-40 hover:grayscale-0 hover:opacity-100 transition-all">
